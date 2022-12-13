@@ -5,7 +5,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: aqua;
+    background-color: rgb(255, 0, 0);
     background-image: url(../images/Kratos.webp);
     background-size: cover;
 }
